@@ -1,0 +1,44 @@
+package core;
+
+//Arithmetic-> +, -, *, /, %
+//assignment-> =, += , -=, *=, /= 
+//unary-> ++,--
+//conditional-> >, <, >=, <=, ==, !=
+//logical-> &&, || , !
+public class P003_Operators {
+	public static void main(String[] args) {
+		int a = 13, b = 28, c;
+		System.out.println(a + b);
+		System.out.println(a - b);
+		System.out.println(a * b);
+		System.out.println(a / b);
+		System.out.println(a % b);
+
+		a += 25; // a = a + 25 -> 38
+		System.out.println(a);
+
+		a -= 10;// a = a-10 -> 28
+		System.out.println(a);
+
+		a *= 2;
+		System.out.println(a);
+
+		a /= 2;
+		System.out.println(a);
+		// a = 28
+
+		a++; // a = a+1
+		System.out.println(a);
+
+		a--;
+		System.out.println(a);
+		// a =28
+
+		System.out.println(a > b);
+		System.out.println(a < b);
+		System.out.println(a >= b);
+		System.out.println(a <= b);
+		System.out.println(a == b);
+
+	}
+}

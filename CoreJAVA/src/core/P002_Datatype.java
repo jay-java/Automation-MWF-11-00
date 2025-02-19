@@ -4,14 +4,20 @@ public class P002_Datatype {
 	public static void main(String[] args) {
 		//primitive
 		byte b = 127;//1
+		System.out.println("byte b = "+b);
 		short s = 3276;//2
+		System.out.println(s);
 		int i = 12;//4
+		System.out.println(i);
 		long l = 12;//8
+		System.out.println(l);
 		float f = 3.143465657657f;//4
 		System.out.println(f);
 		double d = 3.1435666768;//8
 		System.out.println(d);
 		char c ='b';
+		System.out.println(c);
 		boolean b1 = false;
+		System.out.println(b1);
 	}
 }
