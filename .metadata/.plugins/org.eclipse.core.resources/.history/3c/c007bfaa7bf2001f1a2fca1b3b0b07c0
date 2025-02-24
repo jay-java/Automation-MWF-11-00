@@ -1,0 +1,19 @@
+package core;
+
+class Student{
+	int rollno;
+	double per;
+	long contact;
+	public void abcClas() {
+		System.out.println("abc class");
+	}
+}
+
+public class P007_ClassObject {
+	public static void main(String[] args) {
+		System.out.println("main class");
+//		ClassName objectName = new Constructor(ClassName);
+		Student s1 = new Student();
+		
+	}
+}

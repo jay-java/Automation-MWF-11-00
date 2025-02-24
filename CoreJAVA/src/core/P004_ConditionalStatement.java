@@ -3,7 +3,7 @@ package core;
 public class P004_ConditionalStatement {
 	public static void main(String[] args) {
 		// 1. simple if
-		int a = 12, b = 2;
+		int a = 12, b = 12;
 		// (paranthases)
 		if (a > b) {
 			System.out.println("yes a is greater than b");
@@ -24,7 +24,8 @@ public class P004_ConditionalStatement {
 			} else {
 				System.out.println("age is greater than 18 but not lesss than 55");
 			}
-		} else {
+		}
+		else {
 			System.out.println("age is less than 18");
 		}
 
@@ -48,7 +49,7 @@ public class P004_ConditionalStatement {
 
 		// 5.switch case
 		System.out.println("1.english\n2.hindi\n3.gujarati");
-		int c = 5;
+		int c = 1;
 		switch (c) {
 		case 1:
 			System.out.println("you selected english");

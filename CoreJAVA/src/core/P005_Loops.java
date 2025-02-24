@@ -18,10 +18,11 @@ public class P005_Loops {
 		}
 
 		// 3.do{body} while();
-		int k = 13;
+		int k = 8;
 		do {
 			System.out.println("k = " + k);
 			k++;
-		} while (k <= 10);
+		}
+		while (k <= 10);
 	}
 }

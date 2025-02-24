@@ -1,0 +1,13 @@
+package core;
+
+class ABC{
+	public void abcClas() {
+		System.out.println("abc class");
+	}
+}
+
+public class P007_ClassObject {
+	public static void main(String[] args) {
+		System.out.println("main class");
+	}
+}
