@@ -1,0 +1,23 @@
+package core;
+//without arguments without return type.
+//without arguments with return values
+//with arguments without return values
+//with arguments with return values
+class ABC{
+	//without arguments without return type.
+	public void call() {
+		System.out.println("this is without arguments without return type");
+	}
+	//without arguments with return type
+	public int returnNum() {
+		return 12456;
+	}
+	
+}
+public class P011_Functions {
+	public static void main(String[] args) {
+		ABC a = new ABC();
+		a.call();
+	
+	}
+}

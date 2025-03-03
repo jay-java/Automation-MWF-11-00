@@ -1,0 +1,37 @@
+package core;
+//without arguments without return type.
+//without arguments with return values
+//with arguments without return values
+//with arguments with return values
+class ABC{
+	//without arguments without return type.
+	public void call() {
+		System.out.println("this is without arguments without return type");
+	}
+	//without arguments with return type
+	public double returnNum() {
+		return 12456.345;
+	}
+	
+	//with arguments without return type
+	public void withArg(int num) {
+		System.out.println("num : "+num);
+	}
+	
+	//with arguments with return values
+	public int getSquare(int num) {
+		
+	}
+	
+}
+public class P011_Functions {
+	public static void main(String[] args) {
+		ABC a = new ABC();
+		a.call();
+		
+		double res= a.returnNum();
+		System.out.println(res);
+		
+		a.withArg(1234);
+	}
+}

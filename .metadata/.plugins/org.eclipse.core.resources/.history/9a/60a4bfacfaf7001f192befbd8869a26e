@@ -1,0 +1,11 @@
+package core;
+
+public class P012_String {
+	public static void main(String[] args) {
+		char c[] = {'j','a','v','a','/','$','1'};
+		System.out.println(c);
+		String name = "java is best teech to learn in 2025";
+		System.out.println(name);
+		System.out.println(name.charAt(3));
+	}
+}
