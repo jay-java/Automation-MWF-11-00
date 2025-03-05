@@ -1,0 +1,17 @@
+package core;
+//1.default
+//2.parameterized
+//3.copy
+class User{
+	public User(){
+		System.out.println("this is defualt cons");
+	}
+	public void showData() {
+		System.out.println("this is  show data function");
+	}
+}
+public class P013_Constructor {
+	public static void main(String[] args) {
+		
+	}
+}

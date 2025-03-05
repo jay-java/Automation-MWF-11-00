@@ -1,0 +1,22 @@
+package core;
+//1.default
+//2.parameterized
+//3.copy
+class User{
+	int id;
+	String name;
+	long contact;
+	
+	public User(){
+		System.out.println("this is defualt cons");
+	}
+	public void showData() {
+		System.out.println("User : id = "+id+" name = "+name+" contact = "+contact);
+	}
+}
+public class P013_Constructor {
+	public static void main(String[] args) {
+		User u = new User();
+		u.showData();
+	}
+}
