@@ -1,0 +1,23 @@
+package core;
+
+class Overload {
+	public void add() {
+
+	}
+
+	public void add() {
+
+	}
+
+	public void add() {
+
+	}
+
+}
+
+public class P016_Polymorphism {
+	public static void main(String[] args) {
+		Overload o = new Overload();
+		o.add();
+	}
+}

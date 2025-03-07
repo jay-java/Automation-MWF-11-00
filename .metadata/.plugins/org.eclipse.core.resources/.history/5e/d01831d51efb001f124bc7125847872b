@@ -1,0 +1,13 @@
+package core;
+class Laptop{
+	private int ram;
+	private String model;
+	private double price;
+	
+}
+public class P018_Encapsulation {
+	public static void main(String[] args) {
+		Laptop l1 = new Laptop();
+		
+	}
+}
