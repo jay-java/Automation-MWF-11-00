@@ -2,10 +2,20 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="core.Student"/>
     <fullyQualifiedTypeName name="core.ABC"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="core.User"/>
     <fullyQualifiedTypeName name="core.Employee"/>
     <fullyQualifiedTypeName name="core.B"/>
     <fullyQualifiedTypeName name="core.C"/>
     <fullyQualifiedTypeName name="core.D"/>
+    <fullyQualifiedTypeName name="core.Overload"/>
+    <fullyQualifiedTypeName name="core.Child1"/>
+    <fullyQualifiedTypeName name="core.SBI"/>
+    <fullyQualifiedTypeName name="core.JAVA"/>
+    <fullyQualifiedTypeName name="core.Laptop"/>
+    <fullyQualifiedTypeName name="core.Intercall"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="core.Calcualte"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
 </qualifiedTypeNameHistroy>
