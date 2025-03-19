@@ -1,0 +1,7 @@
+package core;
+
+public class P022_LIst {
+	public static void main(String[] args) {
+		
+	}
+}

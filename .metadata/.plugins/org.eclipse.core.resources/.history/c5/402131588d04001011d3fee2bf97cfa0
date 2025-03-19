@@ -1,0 +1,12 @@
+package core;
+class Users{
+	private int id;
+	private String name;
+	private long contact;
+	
+}
+public class P023_ListPractical {
+	public static void main(String[] args) {
+		
+	}
+}
