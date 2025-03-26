@@ -3,6 +3,17 @@ class Laptop{
 	private int ram;
 	private String model;
 	private double price;
+	
+	public Laptop(int ram, String model, double price) {
+		super();
+		this.ram = ram;
+		this.model = model;
+		this.price = price;
+	}
+	public Laptop() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
 	public void setRam(int ram) {
 		this.ram = ram;
 	}
@@ -26,6 +37,7 @@ class Laptop{
 		return "Laptop : ram = "+ram+" model = "+model+" price = "+price;
 	}
 }
+
 public class P018_Encapsulation {
 	public static void main(String[] args) {
 		Laptop l1 = new Laptop();
@@ -36,5 +48,8 @@ public class P018_Encapsulation {
 		System.out.println(l1.getModel());
 		System.out.println(l1.getPrice());
 		System.out.println(l1);
+		
+		Laptop l2 = new Laptop(16, "lenovo", 87540);
+		System.out.println(l2);
 	}
 }
