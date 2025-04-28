@@ -1719,3 +1719,18 @@
 2025-04-25 12:08:34,865 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Automation MWF 11-00\TestNG_Learning\src\main\resources
 2025-04-25 12:08:34,866 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Automation MWF 11-00\TestNG_Learning\src\test\resources
 2025-04-25 12:08:41,341 [main] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating TestNG_Learning_crossbrowser.xml from maven configuration
+2025-04-25 12:09:22,644 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Automation MWF 11-00\TestNG_Learning\src\main\resources
+2025-04-25 12:09:22,646 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Automation MWF 11-00\TestNG_Learning\src\test\resources
+2025-04-25 12:09:26,669 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Automation MWF 11-00\TestNG_Learning\src\main\resources
+2025-04-25 12:09:26,670 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Automation MWF 11-00\TestNG_Learning\src\test\resources
+2025-04-25 15:38:10,476 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Automation MWF 11-00\TestNG_Learning\src\main\resources
+2025-04-25 15:38:10,482 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Automation MWF 11-00\TestNG_Learning\src\test\resources
+2025-04-28 11:25:29,804 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-28 11:25:51,576 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: basic:DataDriver:0.0.1-SNAPSHOT @ C:\Users\user\Automation MWF 11-00\DataDriver\pom.xml.
+2025-04-28 11:25:52,980 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Automation MWF 11-00\DataDriver\src\main\resources
+2025-04-28 11:25:52,983 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Automation MWF 11-00\DataDriver\src\test\resources
+2025-04-28 11:25:53,337 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Automation MWF 11-00\DataDriver\src\main\resources
+2025-04-28 11:25:53,339 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Automation MWF 11-00\DataDriver\src\test\resources
+2025-04-28 12:08:15,182 [Worker-79: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: basic:DataDriver:0.0.1-SNAPSHOT @ C:\Users\user\Automation MWF 11-00\DataDriver\pom.xml.
+2025-04-28 12:08:15,836 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Automation MWF 11-00\DataDriver\src\main\resources
+2025-04-28 12:08:15,839 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Automation MWF 11-00\DataDriver\src\test\resources
